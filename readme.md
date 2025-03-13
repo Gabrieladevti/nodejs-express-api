@@ -58,11 +58,3 @@ O Podcast Manager é uma aplicação inspirada no estilo da Netflix, que permite
 2. Instale as dependências usando `npm install`.
 3. Inicie o servidor executando `start:dev`.
 4. Acesse os endpoints fornecidos para listar os episódios de podcasts ou filtrá-los por nome de podcast.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de recebimento (pull requests) para melhorar este projeto.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
